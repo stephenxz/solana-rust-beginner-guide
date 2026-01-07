@@ -234,10 +234,8 @@ pub enum MyError {
 
 欢迎 fork 仓库，尝试添加更多功能（如更新 message 的指令）！
 
-**GitHub 仓库**：https://github.com/your-username/solana-anchor-counter-tutorial  
+**GitHub 仓库**：https://github.com/stephenxz/solana-rust-beginner-guide  
 
 有问题欢迎 Issues，一起学习 Rust 和 Solana！🚀
 
 --- 
-
-这篇文章已整合 Rust 讲解（基础 + 扩展部分 + 心得），结构清晰、适合初学者。直接复制为 `README.md` 发布！如果需要更多图片或调整，告诉我。
