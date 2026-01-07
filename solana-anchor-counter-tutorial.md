@@ -1,6 +1,6 @@
 # Solana Anchor 开发实战：从简单 Increment 计数器到添加 Decrement 指令的全过程（含 Rust 语法详解）
 
-**作者**：Wesson（或你的名字）  
+**作者**：Wesson
 **日期**：2026年1月7日  
 **标签**：Solana, Anchor, Rust, Blockchain, 智能合约开发, Rust 入门  
 
